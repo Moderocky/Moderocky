@@ -1,7 +1,8 @@
 ### Hi, I'm Kenzie :)
 I'm a special projects architect who specialises in working with JVM internals and emergent technologies.  
 
-![My GitHub Activity](https://resources.byteskript.org/activity_graph/Moderocky.svg)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Moderocky&data=followers,repositories,stars,commits)](https://github.com/Moderocky)
+
 
 #### I am...
  - the organisation admin for [SkriptLang](https://github.com/SkriptLang), maintainers of the [Skript language](https://github.com/SkriptLang/Skript)

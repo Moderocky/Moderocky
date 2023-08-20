@@ -9,6 +9,5 @@ I make programming tools.
  - seamless integration between different [machines](https://github.com/Moderocky/Solar) and [formats](https://github.com/Moderocky/Argo)
  - low-level [tweaking](https://github.com/Moderocky/Mimic) with JVM internals (with [terrifying possibilities](https://github.com/Moderocky/Overlord/blob/master/src/test/java/mx/kenzie/overlord/test/TransformationTest.java#L40))
 
-![Moderocky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moderocky&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moderocky&layout=compact)
 

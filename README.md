@@ -11,3 +11,4 @@ I make programming tools.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moderocky&layout=compact)
 
+![Stats thingy](https://github-readme-stats.vercel.app/api?username=Moderocky&show_icons=true&theme=radical)
